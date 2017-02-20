@@ -1,0 +1,40 @@
+body{
+	background-color:#F1E9DD;
+	color:pink;
+	font-family: secondary;
+}
+
+a.logo.navbar-brand {
+	font-family: logo;
+	color:black;
+}
+a{
+	color:#B1D1D3;
+}
+
+
+@font-face{
+	font-family:'main';
+	src: url("../fonts/main.ttf")
+}
+
+@font-face{
+	font-family:'secondary';
+	src: url("../fonts/secondary.ttf")
+}
+
+@font-face{
+	font-family:'logo';
+	src: url("../fonts/logo.otf")
+}
+
+img{
+	width:170%;
+}
+ul .navbar-right{
+	color:pink;
+}
+
+.navbar-brand {
+	height:50px;
+}
