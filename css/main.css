@@ -2,6 +2,12 @@ body{
 	background-color:#F1E9DD;
 	color:pink;
 	font-family: secondary;
+	text-align:center;
+}
+
+a:hover {
+	text-decoration:none;
+	color:white;
 }
 
 a.logo.navbar-brand {
@@ -10,6 +16,8 @@ a.logo.navbar-brand {
 }
 a{
 	color:#B1D1D3;
+	font-size:20px;
+	color:white;
 }
 
 
@@ -29,12 +37,75 @@ a{
 }
 
 img{
-	width:170%;
+	width:160%;
+	padding:0px;
+	margin:0px;
 }
-ul .navbar-right{
-	color:pink;
-}
+
 
 .navbar-brand {
 	height:50px;
+}
+
+nav.navbar.navbar-invert {
+	margin-bottom:0px;
+}
+
+nav {
+	background-color: #FED1D1;
+}
+
+
+div.thumbnail {
+	background-color:#FED1D1;
+}
+
+div.thumbnail img {
+	height:250px;
+	margin-top:20px;
+}
+img.strawberry.img-circle{
+	height:480px;
+}
+a.btn.btn-primary{
+	background-color:#FDA2A8;
+	border:none;
+}
+
+a.cupcakeOfTheDay {
+	color:white;
+	font-size:50px;
+}
+
+div.blue.thumbnail {
+	background-color:#C2E0E2;
+}
+
+a.darkBlue.btn.btn-primary{
+	background-color:#9FC5C1;
+	border:none;
+}
+
+
+
+.spacer {
+	height: 60px;
+}
+
+p.cupcakeOfTheDay {
+	color:white;
+	font-size:50px;
+}
+
+div.header {
+	background-color:#D7C1A6;
+	height:50px;
+}
+
+div.header p{
+	font-size:30px;
+}
+
+p{
+	color:#61464B;
 }
