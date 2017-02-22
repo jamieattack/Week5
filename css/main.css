@@ -109,3 +109,14 @@ div.header p{
 p{
 	color:#61464B;
 }
+.sectionOne {
+	background-color:white;
+	height:300px;
+	padding-top:50px;
+}
+
+.sectionTwo{
+	background-color:#D7C1A6;
+	height:600px;
+	
+}
